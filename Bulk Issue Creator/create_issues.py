@@ -76,6 +76,7 @@ if MILESTONE_TITLE:
         exit(1)
         
 # Create each issue
+issue_count = len(issues)
 for issue in issues:
     data = {
         "title": issue["title"],
@@ -99,7 +100,9 @@ for issue in issues:
         print(f" ✗ Failed to create issue: {issue['title']}")
         print(f" Error: {response.json()}")
         
+        
 print("\n✨ Script Complete! ✨")
+print("\n {issue_count} issues successfully created. Happy building!")
 print("\n —— Kiera Wilson Automation ——")
 
         

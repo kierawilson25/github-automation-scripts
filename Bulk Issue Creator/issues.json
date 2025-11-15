@@ -1,6 +1,542 @@
 [
   {
-    "title": "Delete me and add your own issues",
-    "body": "This is an example, delete it and add your own issues in this same format."
+    "title": "Migrate TextBox component on landing page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate TextBox component on about page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on about/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on add habit page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on confirm page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on contact page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on error page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on error/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on get started page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on habits page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on home page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on home/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on login page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on login/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on report bug page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on reset password page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on sign up page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on stats page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox component on welcome page",
+    "body": "Replace inline TextBox implementation with reusable TextBox component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on landing page",
+    "body": "Replace inline H1 implementation with reusable H1 component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate H1 component on about page",
+    "body": "Replace inline H1 implementation with reusable H1 component on about/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on add habit page",
+    "body": "Replace inline H1 implementation with reusable H1 component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on confirm page",
+    "body": "Replace inline H1 implementation with reusable H1 component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on contact page",
+    "body": "Replace inline H1 implementation with reusable H1 component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on error page",
+    "body": "Replace inline H1 implementation with reusable H1 component on error/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on get started page",
+    "body": "Replace inline H1 implementation with reusable H1 component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on habits page",
+    "body": "Replace inline H1 implementation with reusable H1 component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on home page",
+    "body": "Replace inline H1 implementation with reusable H1 component on home/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on login page",
+    "body": "Replace inline H1 implementation with reusable H1 component on login/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on report bug page",
+    "body": "Replace inline H1 implementation with reusable H1 component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on reset password page",
+    "body": "Replace inline H1 implementation with reusable H1 component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on sign up page",
+    "body": "Replace inline H1 implementation with reusable H1 component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on stats page",
+    "body": "Replace inline H1 implementation with reusable H1 component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate H1 component on welcome page",
+    "body": "Replace inline H1 implementation with reusable H1 component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on landing page",
+    "body": "Replace inline Label implementation with reusable Label component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate TextBox Label component on about page",
+    "body": "Replace inline Label implementation with reusable Label component on about/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on add habit page",
+    "body": "Replace inline Label implementation with reusable Label component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on confirm page",
+    "body": "Replace inline Label implementation with reusable Label component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on contact page",
+    "body": "Replace inline Label implementation with reusable Label component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on error page",
+    "body": "Replace inline Label implementation with reusable Label component on error/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on get started page",
+    "body": "Replace inline Label implementation with reusable Label component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on habits page",
+    "body": "Replace inline Label implementation with reusable Label component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on home page",
+    "body": "Replace inline Label implementation with reusable Label component on home/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on login page",
+    "body": "Replace inline Label implementation with reusable Label component on login/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on report bug page",
+    "body": "Replace inline Label implementation with reusable Label component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on reset password page",
+    "body": "Replace inline Label implementation with reusable Label component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on sign up page",
+    "body": "Replace inline Label implementation with reusable Label component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on stats page",
+    "body": "Replace inline Label implementation with reusable Label component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate TextBox Label component on welcome page",
+    "body": "Replace inline Label implementation with reusable Label component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on landing page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate Container component on about page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on about/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on add habit page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on confirm page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on contact page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on error page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on error/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on get started page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on habits page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on home page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on home/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on login page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on login/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on report bug page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on reset password page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on sign up page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on stats page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate Container component on welcome page",
+    "body": "Replace inline Container/Panel implementation with reusable Container component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on landing page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate Streak Box component on about page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on about/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on add habit page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on confirm page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on contact page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on error page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on error/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on get started page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on habits page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on home page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on home/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on login page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on login/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on report bug page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on reset password page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on sign up page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on stats page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Box component on welcome page",
+    "body": "Replace inline StreakBox implementation with reusable StreakBox component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on landing page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate Streak Calendar component on about page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on about/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on add habit page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on confirm page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on contact page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on error page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on error/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on get started page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on habits page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on home page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on home/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on login page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on login/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on report bug page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on reset password page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on sign up page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on stats page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate Streak Calendar component on welcome page",
+    "body": "Replace inline Calendar implementation with reusable Calendar component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on landing page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on about page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on about/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on add habit page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on confirm page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on contact page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on error page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on error/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on get started page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on habits page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on home page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on home/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on login page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on login/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on report bug page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on reset password page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on sign up page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on stats page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate Edit Habit TextBox component on welcome page",
+    "body": "Replace inline Edit Habit TextBox implementation with reusable component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on landing page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on about page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on about/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on add habit page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on confirm page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on contact page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on error page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on error/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on get started page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on habits page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on home page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on home/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on login page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on login/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on report bug page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on reset password page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on sign up page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on stats page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate Habit Checkbox component on welcome page",
+    "body": "Replace inline Checkbox implementation with reusable Checkbox component on welcome/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on landing page",
+    "body": "Replace inline Banner implementation with reusable Banner component on page.tsx (root/landing page)."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on about page",
+    "body": "Replace inline Banner implementation with reusable Banner component on about/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on add habit page",
+    "body": "Replace inline Banner implementation with reusable Banner component on add-habit/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on confirm page",
+    "body": "Replace inline Banner implementation with reusable Banner component on confirm/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on contact page",
+    "body": "Replace inline Banner implementation with reusable Banner component on contact/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on error page",
+    "body": "Replace inline Banner implementation with reusable Banner component on error/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on get started page",
+    "body": "Replace inline Banner implementation with reusable Banner component on get-started/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on habits page",
+    "body": "Replace inline Banner implementation with reusable Banner component on habits/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on home page",
+    "body": "Replace inline Banner implementation with reusable Banner component on home/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on login page",
+    "body": "Replace inline Banner implementation with reusable Banner component on login/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on report bug page",
+    "body": "Replace inline Banner implementation with reusable Banner component on report-bug/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on reset password page",
+    "body": "Replace inline Banner implementation with reusable Banner component on reset-password/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on sign up page",
+    "body": "Replace inline Banner implementation with reusable Banner component on sign-up/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on stats page",
+    "body": "Replace inline Banner implementation with reusable Banner component on stats/page.tsx."
+  },
+  {
+    "title": "Migrate Congratulations Banner component on welcome page",
+    "body": "Replace inline Banner implementation with reusable Banner component on welcome/page.tsx."
   }
 ]
