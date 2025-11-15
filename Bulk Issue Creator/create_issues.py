@@ -70,7 +70,7 @@ if MILESTONE_TITLE:
             break
     
     if milestone_number:
-        print(f"Found milestone: {MILESTONE_TITLE} (Milestone number: {milestone_number})")
+        print(f"Found milestone: {MILESTONE_TITLE}")
     else:
         print(f"Warning: Milestone '{MILESTONE_TITLE}' not found.")
         exit(1)
@@ -102,7 +102,7 @@ for issue in issues:
         
         
 print("\n✨ Script Complete! ✨")
-print("\n {issue_count} issues successfully created. Happy building!")
+print(f"\n{issue_count} {'issue' if issue_count == 1 else 'issues'} successfully created. Happy building!")
 print("\n —— Kiera Wilson Automation ——")
 
         
